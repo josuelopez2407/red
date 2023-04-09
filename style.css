@@ -1,0 +1,94 @@
+body{
+	background-color: #100420;
+	margin: 70% white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.letra{
+	width: 20%;
+	height: 91%;
+	padding: 15px;
+	background-color: #100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 35px;
+	font-family: 'Oswald', sans-serif;
+	position: fixed;
+}
+.titulo{
+	font-size:80px;
+	color: white;
+}
+.parrafo{
+	font-size: 30px;
+	color: white;
+}
+.cuerpo{
+	width: 45%;
+	padding: 15px;
+	background-color:#100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	font-family: calibri;
+	display: inline-block;
+}
+.diseño{
+	padding: 15px;
+	background-color:#100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 80%;
+}
+.cuerpo2{
+	width: 95%;
+	padding: 15px;
+	background-color:#100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	font-family: calibri;
+}
+.cuerpo3{
+	width: 66%;
+	padding: 15px;
+	background-color:#100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	font-family: calibri;
+	position: absolute;
+	display: inline-block;
+	margin-right: 30px;
+	margin-left: 50px;
+}
+.diseño2{
+	border: 2px white solid;
+	border-radius: 5%;
+}
+.letra2{
+	width: 20%;
+	height: 100%;
+	padding: 15px;
+	background-color: #100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 35px;
+	font-family: 'Oswald', sans-serif;
+	display: inline-block;
+	margin-left: 30px;
+	margin-right:50px ;
+}
