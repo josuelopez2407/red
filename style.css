@@ -92,3 +92,11 @@ a{
 	margin-left: 30px;
 	margin-right:50px ;
 }
+.amigos{
+	padding: 5px;
+	background-color:#100420;
+	border-width: 2px;
+	border-color: white;
+	border-style: solid;
+	border-radius: 80%;
+}
