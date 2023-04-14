@@ -59,7 +59,7 @@ a{
 	font-family: calibri;
 }
 .cuerpo3{
-	width: 66%;
+	width: 65%;
 	padding: 15px;
 	background-color:#100420;
 	border-width: 2px;
@@ -71,7 +71,7 @@ a{
 	position: absolute;
 	display: inline-block;
 	margin-right: 30px;
-	margin-left: 50px;
+	margin-left: 40px;
 }
 .diseño2{
 	border: 2px white solid;
